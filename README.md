@@ -1,1 +1,3 @@
-# form-penerbangan
+Ini adalah program berbasis PHP yang berfungsi untuk mencatat data rute penerbangan maskapai. Pengguna dapat mengisi formulir yang terdiri dari nama maskapai, bandara asal, bandara tujuan, dan harga tiket tanpa pajak. Setelah formulir dikirimkan, sistem akan secara otomatis menghitung total harga tiket dengan menambahkan pajak dari bandara asal dan tujuan. Pajak ditentukan berdasarkan nilai tetap yang sudah disediakan dalam array. Hasil perhitungan ditampilkan di bawah formulir. Aplikasi ini juga menampilkan nomor acak sebagai identifikasi dan tanggal input data secara otomatis.
+
+Gea Anindiya (2310631250018)
